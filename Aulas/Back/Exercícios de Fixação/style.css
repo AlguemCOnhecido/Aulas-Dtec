@@ -1,0 +1,14 @@
+body{
+    background-image: url(Isagi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: end;
+    color: white;
+}
+body.black{
+    background-image: url(calma\ ai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: end;
+    color: black;
+}
